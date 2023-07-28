@@ -1,5 +1,5 @@
-import './App.css';
-import Profile from './profile/Profile';
+import './App.scss';
+import Profile from './components/profile/Profile';
 
 function App() {
   return (
