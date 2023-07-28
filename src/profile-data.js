@@ -3,7 +3,7 @@ export const profileData = [
         id: 1,
         name: "Susan B",
         job: "Developer Advocate",
-        img: "https://j.ibb.co/kXjQ7bh/Portrait-of-a-happy-young-woman-at-home.jpg",
+        img: "https://i.ibb.co/kXjQ7bH/Portrait-of-a-happy-young-woman-at-home.jpg",
     },
     {
         id: 2,
@@ -13,20 +13,20 @@ export const profileData = [
     },
     {
         id: 3,
-        name: "",
-        job: "",
+        name: "Sarah K",
+        job: "Software Engineer",
         img: "",
     },
     {
         id: 4,
-        name: "",
-        job: "",
+        name: "Kevin P",
+        job: "Data Engineer",
         img: "",
     },
     {
         id: 5,
-        name: "",
-        job: "",
+        name: "Andy W",
+        job: "Playboy",
         img: "",
     },
 ]
