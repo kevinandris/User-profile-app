@@ -1,7 +1,7 @@
 #   Project description:
     1) A frontend implementation.
     2) Most common hook used which is useState to fetch the data.
-    3) Listing all users' data on the list.
+    3) Listing all users' data on the list from JSON data.
     4) Remove function added to remove a specific user on the list by clickng the remove icon.
 
 #   Project image:
